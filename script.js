@@ -1,98 +1,96 @@
 'use strict';
 
-// MIRZA
-const mirza = {};
-mirza.chart = 'DFKrEo86';
-mirza.width = '400';
-mirza.height = '250';
-new TradingView.chart(mirza);
-
-// BLUEDART
-const bluedart = {};
-bluedart.chart = 'yUTGd9xY';
-new TradingView.chart(bluedart);
-
 // ROUTEMOBILE
 const route = {};
-route.chart = '4hvmKNQh';
+route.chart = 'Pa8PxK9n';
 new TradingView.chart(route);
 
-// DHPINDIA
-const dhp = {};
-dhp.chart = 'SleVe9Bf';
-new TradingView.chart(dhp);
+// MIRZA
+const mirza = {};
+mirza.chart = 'HB8Gk2GI';
+new TradingView.chart(mirza);
 
 // ASTER
 const aster = {};
-aster.chart = 'VH6EVLsm';
+aster.chart = 'MQrOWsuR';
 new TradingView.chart(aster);
 
 // Rsystems
 const Rsystems = {};
-Rsystems.chart = 'odk44YT6';
+Rsystems.chart = 'QdpBmPc1';
 new TradingView.chart(Rsystems);
 
 // Borosil
 const boro = {};
-boro.chart = 'C2cpEgy0';
+boro.chart = 'Cm34AtOq';
 new TradingView.chart(boro);
 
 // Berger
 const berger = {};
-berger.chart = 'oaIc1WJx';
+berger.chart = 'y24XgxR1';
 new TradingView.chart(berger);
 
 // Metropolis
 const metro = {};
-metro.chart = 'fIMJmmhJ';
+metro.chart = 'pVS7lP1z';
 new TradingView.chart(metro);
 
 // LTTS
 const ltts = {};
-ltts.chart = 'CWD61oDt';
+ltts.chart = 'JZUPv4QL';
 new TradingView.chart(ltts);
 
 // LTFoods
 const ltfoods = {};
-ltfoods.chart = 'GHPiRr7s';
+ltfoods.chart = 'EzxcvsRE';
 new TradingView.chart(ltfoods);
 
-// LTI
-const lti = {};
-lti.chart = 'CyQcuiOt';
-new TradingView.chart(lti);
+// DHPINDIA
+const dhp = {};
+dhp.chart = 'P8LX2x7T';
+new TradingView.chart(dhp);
+
+// BLUEDART
+const bluedart = {};
+bluedart.chart = 'Su4NqKXB';
+new TradingView.chart(bluedart);
 
 // Divis
 const divis = {};
-divis.chart = 'V6DCymOP';
+divis.chart = 'ZREiEpF2';
 new TradingView.chart(divis);
+
+// LTI
+const lti = {};
+lti.chart = 'kLqvQ1jy';
+new TradingView.chart(lti);
 
 // VarunBeverages
 const varun = {};
-varun.chart = '3q8X0POi';
+varun.chart = 'iftXE1IY';
 new TradingView.chart(varun);
 
 // Vmart
 const vmart = {};
-vmart.chart = 'XvXZeAM0';
+vmart.chart = '6X6FoPYE';
 new TradingView.chart(vmart);
 
 // XPRO
 const xpro = {};
-xpro.chart = 'iajvSFID';
+xpro.chart = '7hA4RQB9';
 new TradingView.chart(xpro);
 
 // DMART
 const dmart = {};
-dmart.chart = 'Ig0CazyS';
+dmart.chart = 'TpsV0LUi';
 new TradingView.chart(dmart);
 
 // METROBRANDS
 const metrobrands = {};
-metrobrands.chart = 'UtQ64oKa';
+metrobrands.chart = 'FDVl9lyC';
 new TradingView.chart(metrobrands);
 
 // NYKAA
 const nykaa = {};
-nykaa.chart = '4UIEof5o';
+nykaa.chart = 'Ham3yLvb';
 new TradingView.chart(nykaa);
