@@ -2,7 +2,9 @@
 
 // MIRZA
 const mirza = {};
-mirza.chart = 'hJVNtCqm';
+mirza.chart = 'DFKrEo86';
+mirza.width = '400';
+mirza.height = '250';
 new TradingView.chart(mirza);
 
 // BLUEDART
