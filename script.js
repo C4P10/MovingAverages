@@ -27,7 +27,7 @@ new TradingView.chart(boro);
 
 // Berger
 const berger = {};
-berger.chart = 'y24XgxR1';
+berger.chart = 'EhiubX1y';
 new TradingView.chart(berger);
 
 // Metropolis
